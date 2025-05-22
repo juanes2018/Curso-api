@@ -1,0 +1,19 @@
+{
+  "name": "curso-api",
+  "version": "1.0.0",
+  "description": "Curso Practico de Consumo de API REST con javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanes2018/Curso-api.git"
+  },
+  "author": "@juandc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanes2018/Curso-api/issues"
+  },
+  "homepage": "https://github.com/juanes2018/Curso-api#readme"
+}
